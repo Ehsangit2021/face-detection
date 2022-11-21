@@ -9,7 +9,7 @@ The following Figure show a sample of face detection process.
 
 ![pp1](https://user-images.githubusercontent.com/84702784/203147362-5ec5beb2-123d-4d7e-9d81-d679e1a68146.png)
 
-As you see, it counts faces and determines the pixel number for each face bounding box.
+As you see, it counts faces and determines the pixel number for each face bounding box. Enlarge the image to see faces bounding box.
 
 ehsan-picture.ir is a url let you have an online evaluation. Upload your image and enjoy.
 
