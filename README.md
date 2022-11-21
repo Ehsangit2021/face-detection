@@ -8,3 +8,5 @@ But here, we try to have a web-app using streamlit package to facilitate face de
 The following Figure show a sample of face detection process.
 
 ![pp1](https://user-images.githubusercontent.com/84702784/203147362-5ec5beb2-123d-4d7e-9d81-d679e1a68146.png)
+
+As you see, it counts faces and determines the pixle number for each face bounding box.
