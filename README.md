@@ -14,3 +14,10 @@ As you see, it counts faces and determines the pixel number for each face boundi
 ehsan-picture.ir is a url let you have an online evaluation. Upload your image and enjoy.
 
 -------------------------------------------------------------------------------------------------------------------
+
+To following command run the python code.
+
+streamlit run vision.py
+
+It walks all images in the folder named IMG and detect human face. Or else, you may upload your desired image to see the results.
+
